@@ -4,5 +4,4 @@ tesseract-ocr-eng
 libjpeg-dev
 libpng-dev
 zlib1g-dev
-libtiff5-dev
 libwebp-dev
