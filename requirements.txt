@@ -1,18 +1,7 @@
-# Bibliotecas essenciais
-streamlit==1.32.0
-numpy==1.26.4
-pandas==2.1.4
-Pillow==10.1.0  # Para manipulação de imagens (PIL)
-
-# OpenCV (versão headless para Streamlit Cloud)
-opencv-python-headless==4.9.0.80
-
-# EasyOCR + PyTorch (versão CPU para evitar erros no Cloud)
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.2.1
 torchvision==0.17.1
 easyocr==1.7.0
-
-# Outras dependências comuns (se necessário)
-python-dateutil==2.8.2  # Para datetime
-regex==2023.12.25  # Para expressões regulares (re)
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+streamlit==1.32.0
