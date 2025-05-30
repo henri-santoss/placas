@@ -1,9 +1,9 @@
 streamlit==1.45.1
-opencv-python-headless==4.9.0.80
+opencv-python-headless==4.8.1.78  # Versão mais estável
 pytesseract==0.3.10
-Pillow==9.5.0  # Versão mais estável para Python 3.13
-numpy==1.26.4
-pandas==2.1.4
+Pillow==9.5.0  # Última versão totalmente compatível
+numpy==1.24.4  # Versão mais leve
+pandas==2.0.3
 
 
 
